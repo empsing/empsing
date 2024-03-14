@@ -6,5 +6,5 @@
 
 <p>Empsing doesn't just streamline operations – it revolutionizes collaboration, enhances profitability, and ensures long-term business success worldwide.</p>
 
-<p>Our Paper on Designing Multi-Step Action Models(MSAMs) for Enterprise AI Adoption : <a href="https://huggingface.co/empsing/empsing_v1.5/blob/main/Designing%20MSAM%20for%20Enterprise%20AI%20Adoption.pdf"> Empsing Paper</a></p>
+<p>Our Paper on Designing Multi-Step Action Models(MSAMs) for Enterprise AI Adoption : <a href="https://github.com/empsing/empsing_v1.5/blob/main/Designing%20MSAM%20for%20Enterprise%20AI%20Adoption.pdf"> Empsing Paper</a></p>
 </body>
